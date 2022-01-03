@@ -1,6 +1,6 @@
-# Manufacturing Productivity
+# Manufacturing Counter
 
-Manufacturing Productivity merupakan web aplikasi yang dapat menghitung achievement, ok/ng ratio, ftt, downtime dan oee secara automatis berdasarkan log data yang dikirim oleh mesin di station terakhir didalam suatu proses manufacturing.
+Manufacturing Counter merupakan web aplikasi yang berfungsi menghitung jumlah barang ok dan ng, dengan memasukan detail ketika barang ng. sehingga bisa didapatkan log disetiap proses manufacturing
 	
 Aplikasi ini dibangun menggunakan bahasa pemrograman PHP 7 dan database MySQL. Untuk cara mengakses databasenya menggunakan MySQLi Extension dengan antarmuka Object Oriented.
 	
